@@ -14,6 +14,7 @@ class Container extends Component {
     render() {
         return(
             <div id="content">
+              <p>100things!!!!</p>
             </div>
         )
     }
