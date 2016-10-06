@@ -1,2 +1,10 @@
-.DS_Store
-node_modules/
+# Customize
+/node_modules
+/src/bower_components
+/dist/js
+/dist/css
+/env/Env.js
+*.DS_Store
+*.map
+npm-debug.log
+.tern-*
